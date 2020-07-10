@@ -40,12 +40,13 @@
 * Comment and tell us about your experience 📱
 * Our team will help you 24X7😎😎
 
-# Retical © Members
-*  Rhythm Verma :https://github.com/ritmojs
-* Gargi : https://github.com/gargijs
+# Retical © 
+## Developers
+* 🧒🏻 Rhythm Verma :https://github.com/ritmojs
+* 👩🏻 Gargi : https://github.com/gargijs
 
 
-# ThankYou 
+# ThankYou ❤
 <p align="center">
 <img src="./logo.png" width="200" height ="200">
 </p>
