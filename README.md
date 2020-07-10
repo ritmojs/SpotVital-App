@@ -21,15 +21,11 @@
 
 
 # ScreenShots💕
-<img src="./1.jpeg">
-<img src="./2.jpeg">
-<img src="./3.jpeg">
-<img src="./5.jpeg">
-<img src="./6.jpeg">
-
-
-
-
+<p align="center">
+  <a>
+    <img src="./screenshot.png" width = "1400px"/>
+  </a>
+</p>
 
 # How to Use ✔📲 SpotVital?
 
@@ -38,6 +34,11 @@
 * Step-3: Now Create Account.👨‍🎓
 * Step-4: Now add 🛸Circle Code in Join Circle Activity.
 * Step-5: Now you can see the real time location of your friend🏍🧒🧒
+
+# Request from Retical😅😅😅
+* Rate our app on  google Play store ⭐⭐⭐⭐⭐
+* Comment and tell us about your experience 📱
+* Our team will help you 24X7😎😎
 
 
 # ThankYou 
